@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Hello world!\n");
+	printf("test git successed!");
     return 0;
 }
 
